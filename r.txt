@@ -1,0 +1,15 @@
+100, Standard, $98.25, 109001
+101, Standard, $99.10, 192000
+200, Standard, $98.25, 2000
+102, Double, $100.25, 191000, Mini Fridge, Microwave, WiFi
+103, King, $102.19, 192000, Mini Fridge, Microwave, Wifi, Desk
+104, Standard, $105.88, 109001
+203, King, $102.19
+201, FreeForm, $99.10, 192000
+105, Connected, 106, $190.10, 109100, Full-size Fridge, Microwave, WiFi
+106, Connected, 105, $187.20, 109100, Full-size Fridge, Microwave, WiFi, Couch
+107, Standard, $90.77, 192140
+202, Double, oneHundred, 191000
+108, Connected, $109, $166.80, 192140, Mini Fridge, Desk, Couch
+Two, Standard, $105.88, 109001
+109, Connected, 108, $112.78, 192140, Mini Fridge, WiFi
